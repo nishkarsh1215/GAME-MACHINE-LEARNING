@@ -1,0 +1,5 @@
+SPHERE BALANCING WITH MACHINE LEARNING->
+![Screenshot 2024-11-20 131907](https://github.com/user-attachments/assets/26a536f5-67fc-4db0-84d8-f33ee465e978)
+![Screenshot 2024-11-20 123847](https://github.com/user-attachments/assets/3fcdc75a-f4f1-4e96-a5f2-c0d1bd5a7ec4)
+![Screenshot 2024-11-20 125840](https://github.com/user-attachments/assets/a15ddefc-502f-43ad-afde-f7b2adc80aff)
+Crafted an engaging Unity game with genetic algorithms, artificial neural networks, and reinforcement learning for immersive gameplay. Effectively implemented AI models, including neural networks and Q-networks, to expertly train the game's virtual agent in sphere balancing. Implemented AI models, including neural networks and Q-networks, to expertly and efficiently train the game's virtual agent in sphere balancing. Fine-tuned training parameters and algorithms to meticulously optimize the agent's learning curve and significantly improve performance. Developed an engaging and interactive learning experience, fostering player involvement in AI training and game dynamics
